@@ -1,8 +1,8 @@
 ---
-title: Hello Homelab!
-date: 2025-08-03 15:40:00 -700
-categories: [homelab,blog]
-tags: [servers,jekyll]
+title: TITLE
+date: 2025-08-03 16:38:00 +0800
+categories: [TOP_CATEGORY, SUB_CATEGORY]
+tags: [TAG]     # TAG names should always be lowercase
 ---
 
 # Welcome
