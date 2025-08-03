@@ -9,40 +9,41 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Lorenza Friedrich's Portfolio # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: My experience throughout Georgia Tech's OMSCS program # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  This is Lorenza Friedrich's portfolio, showcasing my projects and experience.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://lorenzafriedrich.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: LorenzaFriedrich # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: Lorenza Friedrich # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Lorenza Friedrich
+  email: ren.friedrich@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://bsky.app/profile/cherrifinder.bsky.social # change to your Twitter homepage
+    - https://github.com/LorenzaFriedrich # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/cherri_finder/
+    - https://www.linkedin.com/in/lorenza-friedrich/
+    - https://substack.com/@renfriedrich?utm_source=user-menu
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D4E03AQGSXAob-APqzQ/profile-displayphoto-shrink_400_400/B4EZQZ4kb3HEAg-/0/1735601048430?e=1756944000&v=beta&t=R9iPqQpBVnfAkIiTbBGjeW7G57ccMy2Omhuy1sjE-mc
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
