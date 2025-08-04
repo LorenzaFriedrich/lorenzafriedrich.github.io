@@ -1,9 +1,9 @@
 ---
-title: Jekyll Resources for Blog Posts - Formatting Instructions
-date: 2025-08-03 16:38:00 +0800
-categories: [Personal Projects, Introduction]
-tags: [jekyll]     # TAG names should always be lowercase
-description: Introduction && Useful links for making future blog posts
+title: Coursework and Personal Project Goals for 2025-2026 School Year
+date: 2025-08-03 16:39:00 +0800
+categories: [Personal Projects, Future Goals]
+tags: [future plans]     # TAG names should always be lowercase
+description: Brainstorm and goal setting for 2025-2026 and resources
 ---
 
 
