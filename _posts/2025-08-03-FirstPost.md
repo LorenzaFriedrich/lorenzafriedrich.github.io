@@ -9,7 +9,7 @@ description: Introduction && Useful links for making future blog posts
 
 # Welcome
 
-Hello! This blog will be documenting my Georgia Tech OMSCS journey, personal, and professional projects. I find that writing through my projects helps me retain my knowledge, esp with coding. All of my code is in my private github repo. The rest of this post is for quick tips on blog posts and useful links for making blog posts using jekyll chrip theme, mainly for me, not really for review.  
+Hello! This blog will be documenting my Georgia Tech OMSCS journey, personal, and professional projects. I find that writing through my projects helps me retain my knowledge, esp with coding. All of my OMSCS code is in my private github repo. The rest of this post is for quick tips on blog posts and useful links for making blog posts using jekyll chrip theme, mainly for me, not really for review.  
 
 ## Title 2
 
