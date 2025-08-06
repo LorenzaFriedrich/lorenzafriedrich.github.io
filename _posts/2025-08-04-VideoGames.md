@@ -13,6 +13,10 @@ For all OMSCS courses - I will provide pseudocode and video links, but I need to
 ## Group Project: GoreDash
 
 ### Final Submission 
+### Trailer
+https://youtu.be/8-z6r-s_tJQ
+### Gameplay
+https://youtu.be/i3RJRANie30
 
 ## Individual Assignments 
 
@@ -31,7 +35,6 @@ In an exisiting unity scene - implement the following:
 also have squeaky footsteps. 
 
 ### Milestone 2 – Physics Simulation 
-
 
 - Vertical stack of three (3) blue rigidbody spheres with collision sounds 
 - Vertical stack of three (3) red rigidbody spheres that don’t collide with one another. 
