@@ -6,7 +6,7 @@ tags: [python]     # TAG names should always be lowercase
 description: Overview of Computer Networks   
 ---
 # Welcome
-
+For all OMSCS courses - I will provide pseudocode and video links, but I need to keep it private unless a recuriter asks for permission for them to hold the honor code, descriptions of what was completed are below, for courses in the future - I will be adding in my notes in real time. 
 
 ## Individual Assignments 
 I lost most of my notes (sadly) when I pulled my notes from obsidian. this course has two exams that are multiple choice, open book quizzes and 5 projects. 
