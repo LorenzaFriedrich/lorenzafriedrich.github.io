@@ -9,35 +9,20 @@ description: Brainstorm and goal setting for 2025-2026 and resources
 
 # Welcome
 
-Hello! This blog will be documenting my Georgia Tech OMSCS journey, personal, and professional projects. I find that writing through my projects helps me retain my knowledge, esp with coding. All of my code is in my private github repo. The rest of this post is for quick tips on blog posts and useful links for making blog posts using jekyll chrip theme, mainly for me, not really for review.  
+## Course work for FY25 through OMSCS 
 
-## Title 2
+For Fall 2025 - I am taking GIOS (Graduate Introduction to Operating Systems)
+- https://omscs.gatech.edu/cs-6200-introduction-operating-systems
+For Spring 2025 - I am taking Into to Graduate Algorithms
+- https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms
 
-use a double hashtag and a space to signal the header 2 font.
+## Personal Projects and Engagement 
+For Fall and Spring 2025-2026 I am participating in EGD (e-sport and Game Design) Studio Aspen Program 
+- https://www.egdcollective.org/
 
-### Title 3
+For Fall and Spring 2025-2026 I am a College Advisor through through Minds Matter NYC. 
+- https://mindsmatternyc.org/
 
-use a triple hashtag and a space to signal the header 3 font. You get the idea. 
-
-* unordered bullet
-* points
-* are written with stars 
-
-## Code Blocks
-
-Use ``` and ``` as bounds, for first ```do ``` javascript or ```c to idenitfy the language, examples below: 
-
-```javascript
-console.log('hello world!);
-```
-
-```bash
-sudo apt update && sudo apt upgrade
-```
-
-## Useful links 
-https://github.com/jekyll/jekyll-compose
-
-
-https://github.com/cotes2020/jekyll-theme-chirpy/wiki
+## Goals
+Getting an internship in computer science/or transitional job in product management.
 
