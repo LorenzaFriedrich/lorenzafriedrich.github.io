@@ -57,19 +57,32 @@ also have squeaky footsteps.
 - AI is controlled by procedural state machine of at least 2 states where the minion visits 5 stationary waypoints, then heads off moving waypoint, then goes back to visiting 5 stationary waypoints, then heads off moving waypoint,….going on forever in that pattern.
 - Minion is animated with steps and not sunk into ground
 
-## Concepts 
-
-### Quizzes
+### Concepts
+- Trespasser (jurassic Park)
+- Interactive NArrative
+- Interesting Choices
+- Audio
+- Play Testing
+- Valve's Cabal Design
+- Prototyping
+- Game Object Dependencies and Communication
+- Artifical Intelligence
+- Formal Elements
+- Game Feel
+- Physics Simulation
+- Animation
+- Game Engines
 
 ## Resources
 
 ### Text Books
-
+- The Game Design Workshop: https://learning.oreilly.com/library/view/game-design-workshop/9781482217179/K22093_foreword.xhtml
+- BOOK TITLE: Game Feel: A Game Designer's Guide to Virtual Sensation - 1st Edition (Morgan Kaufmann Game Design Books) 
 ### Github Repo (private)
-
+- https://github.com/LorenzaFriedrich
 ### Online materials
-[1] https://omscs.gatech.edu/cs-6457-video-game-design
-
+- [1] https://omscs.gatech.edu/cs-6457-video-game-design
+- [2] https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient
 ## What I'm doing next
 
 
