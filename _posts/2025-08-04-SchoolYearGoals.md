@@ -25,4 +25,5 @@ For Fall and Spring 2025-2026 I am a College Advisor through through Minds Matte
 
 ## Goals
 Getting an internship in computer science/or transitional job in product management.
+I'll be updating changes throughout the year as I continue progressing! 
 
