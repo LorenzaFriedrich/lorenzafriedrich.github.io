@@ -22,10 +22,13 @@ For Spring 2025 - I am taking Into to Graduate Algorithms
 For Fall and Spring 2025-2026 I am participating in EGD (e-sport and Game Design) Studio Aspen Program 
 - https://www.egdcollective.org/
 
+For Fall 2025, I am participating in the Epic Games Externship Program
+- https://app.extern.com/externships/271
+
 For Fall and Spring 2025-2026 I am a College Advisor through through Minds Matter NYC. 
 - https://mindsmatternyc.org/
 
 ## Goals
-Getting an internship in computer science/or transitional job in product management.
+Getting an internship in computer science. 
 I'll be updating changes throughout the year as I continue progressing! 
 
