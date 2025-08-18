@@ -2,7 +2,7 @@
 title: CS 6457 - Video Game Design
 date: 2025-08-04 13:19:00 +0800
 categories: [GaTech OMSCS, Video Game Design]
-tags: [c#]     # TAG names should always be lowercase
+tags: [c sharp, gaming]     # TAG names should always be lowercase
 description: Overview & Projects from Video Game Design 
 ---
 
