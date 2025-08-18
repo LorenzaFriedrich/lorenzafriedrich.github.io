@@ -6,10 +6,11 @@ tags: [python]     # TAG names should always be lowercase
 description: Overview of Computer Networks   
 ---
 # Welcome
-For all OMSCS courses - I will provide pseudocode and video links, but I need to keep it private unless a recuriter asks for permission for them to hold the honor code, descriptions of what was completed are below, for courses in the future - I will be adding in my notes in real time. 
+#### Note
+For all OMSCS courses - I will provide pseudocode and video links, but I need to keep code in a private repository to uphold the honor code, descriptions, notes, etc are below.
 
 ## Individual Assignments 
-I lost most of my notes (sadly) when I pulled my notes from obsidian. this course has two exams that are multiple choice, open book quizzes and 5 projects. 
+I lost most of my notes (sadly) when I pulled my notes from obsidian. This course has two exams that are multiple choice, open book quizzes and 5 projects. 
 It's a good course! super comprehensive, the absolute best resource is the Jim Kurose videos and text books. Below is a high level overview of whats covered in the course projects. If I am able to recover my notes I'll add them, if I end up revisiting my code, I'll add psuedocode in here as well. 
 
 ### Distance Vector

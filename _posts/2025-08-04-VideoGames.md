@@ -8,7 +8,8 @@ description: Overview & Projects from Video Game Design
 
 
 # Welcome
-For all OMSCS courses - I will provide pseudocode and video links, but I need to keep it private unless a recuriter asks for permission for them to hold the honor code, descriptions of what was completed are below, for courses in the future - I will be adding in my notes in real time. 
+#### Note
+For all OMSCS courses - I will provide pseudocode and video links, but I need to keep code in a private repository to uphold the honor code, descriptions, notes, etc are below.
 
 ## Group Project: GoreDash
 

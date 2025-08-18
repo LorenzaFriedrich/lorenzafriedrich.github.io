@@ -8,6 +8,8 @@ description: Brainstorm and goal setting for 2025-2026 and resources
 
 
 # Welcome
+#### Note
+For all OMSCS courses - I will provide pseudocode and video links, but I need to keep code in a private repository to uphold the honor code, descriptions, notes, etc are below.
 
 ## Course work for FY25 through OMSCS 
 
