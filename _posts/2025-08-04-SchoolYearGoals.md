@@ -32,3 +32,22 @@ For Fall and Spring 2025-2026 I am a College Advisor through through Minds Matte
 Getting an internship in computer science. 
 I'll be updating changes throughout the year as I continue progressing! 
 
+
+## OMSCS Coursework plan - last updated 08-19-2025
+
+1. CS-6210 Advanced Operating Systems
+2. CS-6250 Computer Networks (COMPLETE)
+3. CS-6515 Introduction to Graduate Algorithms (IN PROGRESS)
+4. CS-6200 Graduate Introduction to Operating Systems (IN PROGRESS)
+5. CS-8803-O08 Special Topics: Compilers - Theory and Practice
+6. CS-8803-O21 Special Topics: GPU Hardware and Software
+7. CS-6457 Video Game Design and Programming (COMPLETE)
+8. CS-6601 Artificial Intelligence
+9. CS-6290 High-Performance Computer Architecture
+
+
+
+
+
+
+
