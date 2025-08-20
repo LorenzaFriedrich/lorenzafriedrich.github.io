@@ -2,21 +2,22 @@
 title: CS 6457 - Video Game Design
 date: 2025-08-04 13:19:00 +0800
 categories: [GaTech OMSCS, Video Game Design]
-tags: [c sharp, gaming]     # TAG names should always be lowercase
+tags: [csharp, gaming]     # TAG names should always be lowercase
 description: Overview & Projects from Video Game Design 
 ---
 
 
 # Welcome
+Course completed Summer 2025
 #### Note
 For all OMSCS courses - I will provide pseudocode and video links, but I need to keep code in a private repository to uphold the honor code, descriptions, notes, etc are below.
 
 ## Group Project: GoreDash
 
 ### Final Submission 
-### Trailer
+### Trailer - private 
 https://youtu.be/8-z6r-s_tJQ
-### Gameplay
+### Gameplay - private 
 https://youtu.be/i3RJRANie30
 
 ## Individual Assignments 
@@ -26,41 +27,17 @@ https://youtu.be/i3RJRANie30
 
 ### Milestone 1 - Character Animation
 
-In an exisiting unity scene - implement the following: 
-1. A character without root motion that turns programmatically without root motion.  
-2. A character with root motion that… 
-- a. Can have variable walking and running speeds and animations in all directions.   
-- b. Has publicly modifiable scalars for these root motion parameters.  
-- c. Will be able to move to a target location and point to the target after a button press. 
-3. A Minion (yes from the movie) character with root motion that hops and twists while moving. This minion will 
+This milestone focused on implementing diverse character animation systems in Unity. A non-root motion character was programmed to turn without animation-based movement, while a root motion character was built to handle variable walking and running speeds in all directions, with publicly adjustable parameters for fine-tuning. The root motion character could also move toward and face a target after a button press. Additionally, a Minion character was animated with root motion to hop and twist while moving, complete with squeaky footstep sounds for added effect.
 also have squeaky footsteps. 
 
 ### Milestone 2 – Physics Simulation 
 
-- Vertical stack of three (3) blue rigidbody spheres with collision sounds 
-- Vertical stack of three (3) red rigidbody spheres that don’t collide with one another. 
-- Asset Store model “Free Japanese Mask” with custom compound collider that tips over on nose 
-- yellow jointed chain made of at least five (5) rigidbody GameObjects 
-- blue kinematic rigidbody elevator using Mecanim animation with red rigidbody sphere going for a ride 
-- green Weeble Wobble/Punching Bozo that tilts but can’t be knocked over 
-- a purple cube with rigidbody box that does not slide down the ramp 
-- green cube with rigidbody box that does slide down the ramp 
-- orange rigidbody sphere that bounces 
-- Y_Bot ragdoll that collapses over the hurdle GameObject  
-- black click beetle or jumping bean that jumps intermittently and is autonomous 
-- Make a pause script that starts the game paused and unpauses with “p” keypress
+The second milestone showcased Unity’s physics engine through interactive simulations. A variety of rigidbody setups were created: blue spheres stacked with collision sounds, red spheres that didn’t collide with each other, a Japanese mask with a compound collider that tips over, and a yellow chain with jointed rigidbodies. Other implementations included a kinematic elevator carrying a sphere, a wobbling Weeble Wobble that never falls over, friction and sliding tests with cubes on ramps, a bouncy orange sphere, and a Y_Bot ragdoll collapsing over a hurdle. Autonomous motion was demonstrated with a click beetle that jumps intermittently. A custom pause script was also added, starting the game paused and resuming on a keypress.
 
 ### Milestone 3 – Game Menus and Collectables 
-- Working Game Start Menu with dedicated scene 
-- Working In-Game Menu in original gameplay scene 
-- Collectable ball that only SomeDude_RootMotion can collect 
-- Trigger-based animated prefab object placed in three (3) locations in scene 
+This milestone introduced UI systems and collectible mechanics. A dedicated start menu scene was implemented to launch gameplay, alongside an in-game pause menu within the main scene. Collectables were integrated with restrictions—only the SomeDude_RootMotion character could pick up a special ball. Additionally, an animated prefab was set up to trigger events when approached, and three instances of it were placed throughout the scene to encourage exploration.
 ### Milestone 4 – Artificial Intelligence 
-- AI controlled Minion visits 5 stationary waypoints 
-- AI controlled Minion heads off moving waypoint (that is visible) and has a visualization of minion’s predicted position (visible destination tracker object)
-- AI is controlled by procedural state machine of at least 2 states where the minion visits 5 stationary waypoints, then heads off moving waypoint, then goes back to visiting 5 stationary waypoints, then heads off moving waypoint,….going on forever in that pattern.
-- Minion is animated with steps and not sunk into ground
-
+The final milestone implemented AI-driven behavior using procedural state machines. A Minion character was animated to walk naturally and interact with the environment without clipping into the ground. The AI was programmed to patrol five stationary waypoints, then pursue a moving waypoint while displaying a predicted position via a visible tracker. This cycle repeated indefinitely, demonstrating a dynamic two-state AI system that alternates between waypoint patrol and moving target pursuit.
 ### Concepts
 - Trespasser (jurassic Park)
 - Interactive NArrative

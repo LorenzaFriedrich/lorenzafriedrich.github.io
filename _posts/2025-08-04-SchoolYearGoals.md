@@ -15,6 +15,7 @@ For all OMSCS courses - I will provide pseudocode and video links, but I need to
 
 For Fall 2025 - I am taking GIOS (Graduate Introduction to Operating Systems)
 - https://omscs.gatech.edu/cs-6200-introduction-operating-systems
+
 For Spring 2025 - I am taking Into to Graduate Algorithms
 - https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms
 
@@ -27,6 +28,8 @@ For Fall 2025, I am participating in the Epic Games Externship Program
 
 For Fall and Spring 2025-2026 I am a College Advisor through through Minds Matter NYC. 
 - https://mindsmatternyc.org/
+
+For Fall 2025, I'll be building arduino projects to bolster knowledge on embedded systems. 
 
 ## Goals
 Getting an internship in computer science. 
