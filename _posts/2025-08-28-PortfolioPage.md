@@ -12,6 +12,22 @@ pin: true
 ### Projects
 
 #### Unity Videogame - GoreDash
+3D Third-Person Delivery Game (Unity)
+Developed with a four-person team, this project challenges players to complete timed deliveries across a city while avoiding enemy rats and robbers. Players follow a dynamic waypoint system, manage health and time, and use collectibles to survive.
+
+Core Features: Pickup & delivery system, level progression, dynamic waypoint arrow, HUD with health/timer/objectives, start/pause menus, options (volume, restart, game over), and loading screens.
+
+Collectibles: Health packs (restore health), speed boosts (temporary movement increase), pepper spray (stuns rats for 10 seconds).
+
+Enemies:
+
+Rats: AI-controlled with chase, patrol, and idle states; damage on contact; can be stunned.
+
+Robbers: Target the delivery box; chase when carried; steal package on contact and reset it to start; also damage the player.
+
+Player Abilities: Running, picking up/delivering packages, using collectibles for survival and strategy.
+
+The game blends fast-paced delivery objectives with enemy AI, survival mechanics, and interactive UI design, showcasing both technical implementation and gameplay polish.
 
 #### PSI Lisp Interpreter in C
 
