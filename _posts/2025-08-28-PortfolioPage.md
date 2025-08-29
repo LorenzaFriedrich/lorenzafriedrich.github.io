@@ -21,8 +21,16 @@ Developed with a four-person team, this project challenges players to complete t
 
 <video controls src="../assets/img/GoreDash/MineandNookInc_GoreDash - Intro.mp4" title="Title"></video>
 
+<video muted autoplay controls>
+    <source src="../assets/img/GoreDash/MineandNookInc_GoreDash - Intro.mp4" type="video/mp4">
+</video>
+
 ##### Level Play Through 
 <video controls src="../assets/img/GoreDash/MineandNookInc_GoreDashLevelplay.mp4" title="Title"></video>
+
+<video muted autoplay controls>
+    <source src="../assets/img/GoreDash/MineandNookInc_GoreDashLevelplay.mp4" type="video/mp4">
+</video>
 
 Core Features: Pickup & delivery system, level progression, dynamic waypoint arrow, HUD with health/timer/objectives, start/pause menus, options (volume, restart, game over), and loading screens.
 
