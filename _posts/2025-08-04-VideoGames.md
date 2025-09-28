@@ -15,10 +15,25 @@ For all OMSCS courses - I will provide pseudocode and video links, but I need to
 ## Group Project: GoreDash
 
 ### Final Submission 
-### Trailer - private 
-https://youtu.be/8-z6r-s_tJQ
-### Gameplay - private 
-https://youtu.be/i3RJRANie30
+
+##### Main Menu
+
+<video controls width="640" height="360">
+    <source src="/assets/videos/MineandNookIncGoreDashIntro.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+##### Level Play Through 
+
+<video controls width="640" height="360">
+    <source src="/assets/videos/MineandNookInc_GoreDashLevelplay.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+<video controls width="640" height="360">
+    <source src="/assets/videos/MineandNookInc_GoreDashLevelTransition.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ## Individual Assignments 
 
@@ -64,7 +79,12 @@ The final milestone implemented AI-driven behavior using procedural state machin
 ### Online materials
 - [1] https://omscs.gatech.edu/cs-6457-video-game-design
 - [2] https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient
-## What I'm doing next
+
+
+### Trailer - private 
+https://youtu.be/8-z6r-s_tJQ
+### Gameplay - private 
+https://youtu.be/i3RJRANie30
 
 
 

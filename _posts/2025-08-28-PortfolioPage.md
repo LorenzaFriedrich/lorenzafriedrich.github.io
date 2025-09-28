@@ -1,36 +1,19 @@
 ---
-title: Lorenza Friedrich's Portfolio (Start Here)
+title: Lorenza Friedrich's Portfolio 
 date: 2025-08-28 13:19:00 +0800
 categories: [Personal Projects, Portfolio]
 tags: [unity, unreal engine, arduino]     # TAG names should always be lowercase
-description: Portfolio of work I can share with recruiters and interested parties 
+description: Portfolio with hyperlinks to more information if desired. 
 pin: true
 ---
 
-# Welcome to my Portfolio! 
-
-### Projects
+# Projects
 
 #### 3D Third-Person Delivery Game (Unity) - GoreDash
 
-![alt text](../assets/img/GoreDash/pickup.gif)
+![alt text](../assets/videos/pickup.gif)
 
 Developed with a four-person team, this project challenges players to complete timed deliveries across a city while avoiding enemy rats and robbers. Players follow a dynamic waypoint system, manage health and time, and use collectibles to survive.
-
-##### Main Menu
-
-<video controls src="../assets/img/GoreDash/MineandNookInc_GoreDash - Intro.mp4" title="Title"></video>
-
-<video muted autoplay controls>
-    <source src="../assets/img/GoreDash/MineandNookInc_GoreDash - Intro.mp4" type="video/mp4">
-</video>
-
-##### Level Play Through 
-<video controls src="../assets/img/GoreDash/MineandNookInc_GoreDashLevelplay.mp4" title="Title"></video>
-
-<video muted autoplay controls>
-    <source src="../assets/img/GoreDash/MineandNookInc_GoreDashLevelplay.mp4" type="video/mp4">
-</video>
 
 Core Features: Pickup & delivery system, level progression, dynamic waypoint arrow, HUD with health/timer/objectives, start/pause menus, options (volume, restart, game over), and loading screens.
 
@@ -40,6 +23,7 @@ Enemies: Rats: AI-controlled with chase, patrol, and idle states; damage on cont
 
 Player Abilities: Running, picking up/delivering packages, using collectibles for survival and strategy.
 
+More information here: [Video Games]({% post_url 2025-08-04-VideoGames %})
 #### PSI Lisp Interpreter in C
 
 My Lisp interpreter takes an input in the terminal from a user and returns a computation. It takes in numbers, booleans, symbols, lists, functions, definitions, heads/tails/cons, quotes (WIP), strings, inputs/outputs, and types. Examples below: 
@@ -105,18 +89,16 @@ psi> (type 1)
 num
 ```
 
-More information on Intro to C Post
-
+More information here: [Intro to C ]({% post_url 2025-08-04-IntroToC %})
 #### Unreal Engine - Rube Goldberg Machine (In Progress)
 
 
 
-#### Frogget - Arduino Pixel Chix Project (In Progress)
 
 ### Skills
 
 
 #### Note
-Due to Georgia Institute of Technology's strict policies around sharing code and my previous job's policies around sharing proprietary work, I can't share github repositories easily, nor a majority of my accomplishments. This page is my best attempt to showcase my skills in a way that is easily accessible for recruiters/interested parties. 
+Due to Georgia Institute of Technology's strict policies around sharing code and my previous job's policies around sharing proprietary work, I can't share github repositories easily, nor a majority of my accomplishments. If you have any further questions, please reach out over email: ren.friedrich@gmail.com
 
 
