@@ -95,9 +95,6 @@ More information here: [Intro to C ]({% post_url 2025-08-04-IntroToC %})
 
 
 
-### Skills
-
-
 #### Note
 Due to Georgia Institute of Technology's strict policies around sharing code and my previous job's policies around sharing proprietary work, I can't share github repositories easily, nor a majority of my accomplishments. If you have any further questions, please reach out over email: ren.friedrich@gmail.com
 
