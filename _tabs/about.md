@@ -5,13 +5,12 @@ order: 4
 ---
 ## Hello!
 
-Thanks for checking out my blog :) Right now - I am in a career transition from chemical engineering into computer science, using Georgia Institute of Technology Master's in Computer Science program (OMSCS) as my pathway there. I am a full time student, interested in internships/entry level work to move into software/technology. I have a personal interest in graphics programming, GPU optimization, video games, and art, most of my personal projects will reflect that. Any code generated outside of OMSCS is something I'll share - if it's internal to OMSCS, I'm keeping in a private GitHub Repository, and I would need to check before sharing. 
+Hello! I'm an engineer with experience in software and product development. I spent my undergraduate studying semiconductor fabrication, my early career working quality assurance for mission-critical systems, then transitioned into program management for IT. I am currently in Georgia Institute of Technology's Master’s in Computer Science program. Proficient in C/C++, Python, and Agile methodologies.
 
 ## Ways to reach me
 
-- Discord username: renfriedrichsheher
 - Email: ren.friedrich@gmail.com
-<https://www.linkedin.com/in/lorenza-friedrich/>
+- <https://www.linkedin.com/in/lorenza-friedrich/>
 
 
 ## Professional Experience
@@ -42,5 +41,5 @@ Thanks for checking out my blog :) Right now - I am in a career transition from 
 ## Volunteer Work 
 ### Minds Matter - NYC Chapter
 Current College Advisor and former Team Lead/Mentor for high achieving low-income high school students, providing guidance on college preparation
-
-
+### EGD Collective - NYC 
+Contributed to the development of core systems in a simulated AAA game as part of a collaborative team of 16 students, engaging with UI/UX, level design, and technical art to enhance overall game experience.
