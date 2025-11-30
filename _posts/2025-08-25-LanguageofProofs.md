@@ -1,5 +1,5 @@
 ---
-title: CS 8001 - Language of Proofs
+title: CS 8001 - Language of Proofs Seminar
 date: 2025-08-25 13:19:00 +0800
 categories: [GaTech OMSCS, Proofs]
 tags: [discrete mathematics, graduate algorithums]     # TAG names should always be lowercase

@@ -25,12 +25,6 @@ For Fall and Spring 2025-2026 I am participating in EGD (e-sport and Game Design
 For Fall and Spring 2025-2026 I am a College Advisor through through Minds Matter NYC. 
 - https://mindsmatternyc.org/
 
-For Fall 2025, I'll be building arduino projects to bolster knowledge on embedded systems. 
-
-## Goals
-Getting an internship in computer science. 
-I'll be updating changes throughout the year as I continue progressing! 
-
 
 ## OMSCS Coursework plan - last updated 08-19-2025
 
